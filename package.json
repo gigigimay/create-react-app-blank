@@ -1,5 +1,5 @@
 {
-  "name": "react-mobx-todo",
+  "name": "gigigi-create-react-app-blank",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "npx eslint ."
+    "lint": "eslint ./src --ext .js"
   },
   "eslintConfig": {
     "extends": "react-app"
